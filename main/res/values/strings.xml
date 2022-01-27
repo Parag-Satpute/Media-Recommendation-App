@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Media Recommender</string>
+    <string name="button">Button</string>
+    <string name="trial_recommender">Trial Recommender</string>
+    <string name="trial_recommende">TRIAL RECOMMENDER</string>
+    <string name="movie_recommendation">MOVIE RECOMMENDATION</string>
+    <string name="book_recommendations">book recommendations</string>
+    <string name="get_recommendation">get Recommendation</string>
+    <string name="music_recommendations">music recommendations</string>
+    <string name="enter_song_name_here">enter song name here</string>
+    <string name="please_select_the_model">Please Select The Model</string>
+    <string name="please_select_you_need_recommendations_for">Please Select You Need Recommendations For</string>
+    <string name="please_select_model_you_need_recommendations_for">Please Select Model You Need Recommendations For</string>
+    <string name="get_recommendations" />
+    <string name="get_recommendations1">get recommendations</string>
+    <string name="media_recommender">media Recommender</string>
+    <string name="media_recommender1">MEDIA RECOMMENDER</string>
+</resources>
